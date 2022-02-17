@@ -11,7 +11,7 @@
 		<img src="instagram.jpg" alt="icon">
     </a>
 	<a href="https://wa.me/6285157261663" target="_blank" rel ="noreferrer">
-		<img src="facebook.jpg" alt="icon">
+		<img src="whatsapp.jpg" alt="icon">
     </a>
 
 	
