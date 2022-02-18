@@ -2,10 +2,9 @@
 	<h2>HELLO GUYS</h2>
 	<p>Selamat datang di halaman biodata!</p>
 	<p>==============================================</p>
+		<img src="http://localhost/PersonalWeb/halaman/fajar.jpeg"> 
 </div>
-<div class="gambar">
-	<img src="http://localhost/PersonalWeb/fajar.jpeg">
-</div>
+
 	<p>Nama saya Fajar Muhammad Afrizal</p>
 <div class="text">
 	<P>Umur Saya 17 Tahun</P>
