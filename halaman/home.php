@@ -3,8 +3,11 @@
 	<p>Selamat datang di halaman biodata!</p>
 	<p>==============================================</p>
 </div>
-<div class="text">
+<div class="gambar">
+	<img src="http://localhost/PersonalWeb/fajar.jpeg">
+</div>
 	<p>Nama saya Fajar Muhammad Afrizal</p>
+<div class="text">
 	<P>Umur Saya 17 Tahun</P>
 	<p>saya tinggal di Desa Tenjoayu Kecamatan cicurug Kabupaten sukabumi JawaBarat<p>
 	<P>Saat ini saya merupakan siswa kelas 10 program keahlian 
